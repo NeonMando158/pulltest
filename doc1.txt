@@ -1,4 +1,4 @@
-What is NoSQL?
+What is NoSQL and where is it used?
 
 A NoSQL database offers an alternative to the RDBMS style of data storage (Relational Database Management System), shedding the rigid, table-based system used in an RDBMS, in place of a different storage model that emphasizes higher scalability and availability over conformant to a relational model.
 
